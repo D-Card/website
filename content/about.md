@@ -6,5 +6,8 @@ aliases = ["about-us"]
 author = "DCard"
 +++
 
-I’m Diogo Cardoso, currently a freshman studying Computer Science and Engineering at Instituto Superior Técnico, Lisbon, Portugal.
-You can follow me on [GitHub](https://github.com/D-Card).
+I’m a freshman at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/), currently studying Computer Science and Engineering. I'm also part of [FST Lisboa's](https://fstlisboa.com/en/home-en/) Driverless team.
+
+Sometimes I write random stuff on [Suckless Web](https://sucklessweb.com/)
+
+You can follow me and check some of my projects on [GitHub](https://github.com/D-Card)
