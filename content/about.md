@@ -6,8 +6,12 @@ aliases = ["about-us"]
 author = "DCard"
 +++
 
-I’m a freshman at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/), currently studying Computer Science and Engineering. I'm also part of [FST Lisboa's](https://fstlisboa.com/en/home-en/) Driverless team.
+Hi there 👋
 
-Sometimes I write random stuff on [Suckless Web](https://sucklessweb.com/)
+I’m a freshman at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/), currently studying Computer Science and Engineering. 
 
-You can follow me and check some of my projects on [GitHub](https://github.com/D-Card)
+I'm currently working as a sysadmin at IST's Department of Computational Infrastructures as part of a scholarship sponsored by the Fundação para a Ciência e a Tecnologia. 
+
+I'm also part of [FST Lisboa's](https://fstlisboa.com/en/home-en/) Driverless team and an instructor at [AfterSchool](https://treetree2.school/) by treetree2. 
+
+You can follow me and check some of my projects on [GitHub](https://github.com/D-Card).
