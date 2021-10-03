@@ -65,6 +65,13 @@ icon = "fa fa-twitter"
 weight = 3
 url = "https://twitter.com/_dcard67/"
 
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-linkedin"
+weight = 4
+url = "https://www.linkedin.com/in/dcard67/"
+
+
 
 
 rel = "alternate"
