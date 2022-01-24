@@ -10,6 +10,7 @@ pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
+disableKinds = ['taxonomy', 'term']
 
 [params]
 author = "Diogo Cardoso"
@@ -35,10 +36,6 @@ hideColorSchemeToggle = false
 maxSeeAlsoItems = 5
 # Enable Twemoji
 enableTwemoji = false
-
-
-
-
 
 
 #[taxonomies]
