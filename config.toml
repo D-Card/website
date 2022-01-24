@@ -41,11 +41,11 @@ enableTwemoji = false
 
 
 
-[taxonomies]
-category = "categories"
-series = "series"
-tag = "tags"
-author = "authors"
+#[taxonomies]
+#category = "categories"
+#series = "series"
+#tag = "tags"
+#author = "authors"
 
 [[params.social]]
 name = "Github"
