@@ -7,6 +7,8 @@ ignoreErrors = ["error-remote-getjson"]
 
 [Params]
 
+  favicon = "/images/favicon.ico"
+
 # Additions start here
   [Params.Navbar]
   use = true
