@@ -80,7 +80,7 @@ ignoreErrors = ["error-remote-getjson"]
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
     ["Github", "https://github.com/D-Card/"],
-    ["LinkedIn", "https://www.linkedin.com/in/dcard67/"],
+    ["LinkedIn", "https://www.linkedin.com/in/d-card/"],
     ["Twitter", "https://twitter.com/_dcard67/"],
   ]
 
