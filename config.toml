@@ -6,18 +6,8 @@ title = "Diogo Cardoso"
 ignoreErrors = ["error-remote-getjson"]
 
 [Params]
-
-# Additions start here
-  [Params.Navbar]
-  use = true
-  
-  [Params.Extensions]
-  use = true
-  ext = ".txt" # extension to add after single page
-# Additions stop here
-    
   # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
-  description = "Jane Doe's Portfolio!"
+  description = "DC Personal Website!"
   [Params.Terminal]
   # Note: color scheme
   # Note: You can choose between
